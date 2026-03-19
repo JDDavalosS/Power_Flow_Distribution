@@ -1,0 +1,1 @@
+This repository provides a code implementation for the steady-state analysis of Electrical Power Systems (EPS). It includes the necessary algorithms to build the bus admittance matrix ($Y_{bus}$) and determine the fundamental operational parameters of the network, such as voltage magnitudes, branch currents, power flows (active and reactive), and power loss quantification.
